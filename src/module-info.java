@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author donch
+ *
+ */
+module AugabeTraining {
+}
